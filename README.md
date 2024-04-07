@@ -1,12 +1,12 @@
-## Data Visualization in TS
+# Data Visualization in TS
 
-### Authors 
+## Authors 
 
   • Jorge Elías García (alu0101472294@ull.edu.es)
 
   • Juan Aday Siverio González (alu0101472294@ull.edu.es)
 
-### Structure
+## Structure
 
 This directory is organised as follows:
 
